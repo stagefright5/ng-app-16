@@ -1,7 +1,7 @@
-import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import { CounterComponent } from './counter/counter.component';
+import { CounterComponent } from './learn-on-push/counter/counter.component';
 
 @Component({
   selector: 'app-root',

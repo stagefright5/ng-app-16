@@ -1,5 +1,5 @@
 import { CommonModule } from '@angular/common';
-import { ChangeDetectionStrategy, Component, computed, signal } from '@angular/core';
+import { ChangeDetectionStrategy, Component } from '@angular/core';
 import { CounterChangerComponent } from '../counter-changer/counter-changer.component';
 import { CounterDisplayComponent } from '../counter-display/counter-display.component';
 
